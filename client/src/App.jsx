@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import './App.css'
 import img1 from './assets/icons8-user-male-100.png';
 
 function App() {
